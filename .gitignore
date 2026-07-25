@@ -1,0 +1,13 @@
+.DS_Store
+*.inspect.ndjson
+
+# Keep the repository focused and lightweight. Primary documents remain linked
+# in sources/README.md and in the workbook's Sources sheet.
+sources/ir/*.pdf
+sources/sec/*.html
+sources/sec/*.json
+
+# Temporary and generated files
+~$*.xlsx
+*.tmp
+*.bak
